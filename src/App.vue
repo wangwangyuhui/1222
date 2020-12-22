@@ -7,11 +7,11 @@
 <script>
 
 export default {
-  name: '',
+  name: 'App',
  
 }
 </script>
-vue1
+
 
 
 
